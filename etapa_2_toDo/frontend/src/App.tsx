@@ -62,7 +62,6 @@ function App() {
         description,
         status,
       });
-      console.log(data);
       const newTask = data.task;
       setTasks(
         tasks.map((task) =>
