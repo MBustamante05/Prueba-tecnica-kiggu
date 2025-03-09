@@ -1,6 +1,6 @@
 # Prueba Integral
 
-- La prueba está dividida en 4 etapas (3 las cuales están repartidas en este repositorio).
+- La prueba está dividida en 4 etapas (3 de las cuales están repartidas en este repositorio).
 
 ## Carpetas
 
